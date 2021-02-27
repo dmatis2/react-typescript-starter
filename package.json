@@ -10,9 +10,16 @@
     "prettier": "prettier --write src",
     "lint": "eslint --ext ts,tsx src"
   },
-  "keywords": ["react", "typescript", "eslint", "prettier", "husky", "parcel"],
+  "keywords": [
+    "react",
+    "typescript",
+    "eslint",
+    "prettier",
+    "husky",
+    "parcel"
+  ],
   "author": "Dominik Matis",
-  "license": "ISC",
+  "license": "GPLv3",
   "devDependencies": {
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
